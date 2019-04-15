@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class Log4J2ImplementationInSpringBootApplicationTests {
+public class SpringMvcHandlerInterceptorForLoggerApplicationTests {
 
 	@Test
 	public void contextLoads() {
